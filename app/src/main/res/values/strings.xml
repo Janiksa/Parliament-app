@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyParliamentProject</string>
+    <string name="seat_number">Seat number:</string>
+    <string name="kristillisdemokraatit">Kristillisdemokraatit</string>
+    <string name="kesk">Keskusta</string>
+
+</resources>
